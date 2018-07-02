@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/GreatestDane/liri-node-app#readme",
   "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.0.0",
     "json-stable-stringify": "^1.0.1",
     "node-spotify-api": "^1.0.7",
     "twitter": "^1.7.1",
